@@ -121,13 +121,13 @@ button {
   margin: 0 10px;
 }
 
-.main-section__btn.delete img {
+.main-section-task__img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.main-section__btn.delete img:hover {
+.main-section-task__img:hover {
   transform: rotateZ(0);
 }
 
